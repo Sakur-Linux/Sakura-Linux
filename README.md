@@ -1,2 +1,2 @@
-# Fire-GNU-linux
+# Fire GNU/linux
 Fire GNU/Linux
