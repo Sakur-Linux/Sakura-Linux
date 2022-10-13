@@ -1,2 +1,2 @@
-# Fire GNU/linux
-Fire GNU/Linux
+# Infinity Linux
+無限の可能性。
